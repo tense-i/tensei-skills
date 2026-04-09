@@ -1,0 +1,6 @@
+interface:
+  display_name: Daily Hotspot Info-Gap Analyzer
+  short_description: Turn spoken or messy daily news roundups into structured hotspot analysis with fact gaps and watchlists.
+  category: research
+  icon: radar
+  accent_color: "#B45309"

@@ -1,0 +1,20 @@
+{
+  "name": "code-archaeology",
+  "displayName": "Code Archaeology - 代码考古学",
+  "version": "1.0.0",
+  "description": "基于 Git 历史的系统演进方案分析器。以解决方案架构师视角，从 commit/PR/diff 中反推演进阶段、架构变迁、关键决策与方案迭代轨迹。",
+  "author": "tense-i",
+  "keywords": [
+    "代码考古",
+    "git历史分析",
+    "演进分析",
+    "架构演变",
+    "PR分析",
+    "技术迁移",
+    "code archaeology",
+    "evolution analysis",
+    "git history"
+  ],
+  "category": "analysis",
+  "license": "MIT"
+}

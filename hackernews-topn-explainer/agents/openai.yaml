@@ -1,0 +1,6 @@
+interface:
+  display_name: Hacker News TopN Explainer
+  short_description: Analyze Hacker News Top N stories and explain what happened, why they ranked, and what to do next.
+  category: research
+  icon: newspaper
+  accent_color: "#F97316"

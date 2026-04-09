@@ -1,0 +1,6 @@
+interface:
+  display_name: GitHub Trending Quick Deep Analyzer
+  short_description: Analyze trending repos with consistent per-repo depth, features, pain points, and evidence.
+  category: research
+  icon: github
+  accent_color: "#111827"

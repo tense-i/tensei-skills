@@ -1,0 +1,21 @@
+{
+  "name": "post-deep-dive-analyst",
+  "description": "将社交媒体帖子的正文与评论区内容，深度分析并扩展为一份信息量极高的长文档。覆盖观点解码、认知模型还原、批判性分析、方法论逆向工程与落地行动清单。",
+  "version": "1.0.0",
+  "author": {
+    "name": "tense-i"
+  },
+  "license": "MIT",
+  "keywords": [
+    "帖子分析",
+    "深度解读",
+    "社交媒体",
+    "观点分析",
+    "评论分析",
+    "认知模型",
+    "方法论提炼",
+    "post-analysis",
+    "deep-dive",
+    "content-analysis"
+  ]
+}

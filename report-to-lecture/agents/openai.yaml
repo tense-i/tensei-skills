@@ -1,0 +1,6 @@
+interface:
+  display_name: Report to Lecture
+  short_description: Turn reports, papers, and articles into high-coverage teaching notes with evidence-aware expansion.
+  category: writing
+  icon: book-open
+  accent_color: "#1D4ED8"

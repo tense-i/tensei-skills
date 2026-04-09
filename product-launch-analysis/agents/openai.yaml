@@ -1,0 +1,6 @@
+interface:
+  display_name: Product Launch Analysis
+  short_description: Produce a launch-review style product analysis with competition, ROI, WTP, risks, and validation steps.
+  category: strategy
+  icon: rocket
+  accent_color: "#0F766E"

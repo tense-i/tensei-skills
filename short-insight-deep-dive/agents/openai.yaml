@@ -1,0 +1,6 @@
+interface:
+  display_name: Short Insight Deep Dive
+  short_description: Expand dense short-form insights into deep documents with full claim coverage, critique, and actionability.
+  category: writing
+  icon: sparkles
+  accent_color: "#7C3AED"

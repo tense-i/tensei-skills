@@ -12,6 +12,7 @@
 | --- | --- |
 | `code-archaeology` | 基于 Git 历史做代码考古，分析架构演进、关键决策与技术迁移轨迹。 |
 | `daily-hotspot-info-gap-analyzer` | 将每日热点口播或碎片文本整理成结构化中文分析，重点识别信息差与误读点。 |
+| `ddd-longform-arch-doc` | 基于 DDD 输出超长业务架构与技术规划文档，适合项目或子模块级分析。 |
 | `github-trending-quick-deep-analyzer` | 对 GitHub Trending 或单个仓库做中文深度解读，覆盖价值、特性、证据和试用路径。 |
 | `hackernews-topn-explainer` | 抓取 Hacker News 榜单并输出结构化中文深读。 |
 | `interview-question-bank` | 基于 JD、岗位方向或技术主题，结合公开招聘信息生成高频面试题库。 |

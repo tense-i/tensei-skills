@@ -1,0 +1,22 @@
+{
+  "name": "repo-architecture-analyst",
+  "description": "以解决方案架构师视角分析本地代码仓库：从代码中提炼系统面临的核心场景与技术挑战，逆向推导每个场景的技术解决方案，输出场景驱动的技术方案分析长文档（>1000行）+ Mermaid可视化。",
+  "version": "2.0.0",
+  "author": {
+    "name": "tense-i"
+  },
+  "license": "MIT",
+  "keywords": [
+    "技术方案",
+    "解决方案",
+    "场景分析",
+    "架构分析",
+    "逆向分析",
+    "方案拆解",
+    "Mermaid",
+    "设计决策",
+    "solution-architecture",
+    "scenario-driven",
+    "architecture-analysis"
+  ]
+}

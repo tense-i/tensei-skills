@@ -1,0 +1,6 @@
+interface:
+  display_name: Interview Question Bank Builder
+  short_description: Build market-aware interview question banks from roles, JDs, or technology directions.
+  category: research
+  icon: clipboard-question
+  accent_color: "#2563EB"
