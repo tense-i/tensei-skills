@@ -1,0 +1,12 @@
+interface:
+  display_name: scenario harness architect
+  short_description: '以"解决方案架构师 + 人类判断力教练 + harness 工程师"视角,把秒杀、IM、清结算、订单履约、推荐、内容社区等业务场景拆成结构化架构分析、人类判断文档、难点深拆和分层 prompt 包。强调 AI 只提供候选,人类必须亲自拥有问题定义、不变量、取舍、失败模式和验收标准,再把确认后的判断压成 Claude Code、Codex、Cursor 等 coding agent 可执行的 harness。'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
