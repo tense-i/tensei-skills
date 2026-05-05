@@ -1,0 +1,5 @@
+interface:
+  display_name: Boss Market Calibrator
+  short_description: Evidence-first job market calibration from recent real JDs.
+  icon: briefcase
+  color: '#2563EB'

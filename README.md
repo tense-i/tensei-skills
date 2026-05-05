@@ -20,6 +20,7 @@
 | `product-launch-analysis` | 对产品做立项前分析，覆盖需求、竞品、商业价值、风险与验证计划。 |
 | `repo-architecture-analyst` | 从本地代码仓库中提炼系统场景、技术挑战与对应解决方案。 |
 | `report-to-lecture` | 将文章、论文、研报或白皮书重写成可教学、可转发的中文讲义。 |
+| `scenario-harness-architect` | 把业务场景题(秒杀/IM/清结算…)拆成业务/规模/难点/方案/架构/实施的分析文档,并产出可直接喂给 Claude Code、Codex 等 coding agent 的分层 prompt 包。 |
 | `sdd-plane-bridge` | 将 superpowers 的计划与执行结果同步到 Plane，形成闭环状态流转。 |
 | `short-insight-deep-dive` | 将短洞察、短帖或一句话经验扩展成高密度中文深度文档。 |
 | `track-awesome-yesterday-analyzer` | 分析 Track Awesome List 昨日更新，并输出结构化中文报告。 |

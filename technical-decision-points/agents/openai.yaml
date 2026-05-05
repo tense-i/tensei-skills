@@ -1,0 +1,3 @@
+interface:
+  display_name: "Technical Decision Points"
+  short_description: "Analyze architecture decision points, trade-offs, invariants, and failure modes for business systems."
